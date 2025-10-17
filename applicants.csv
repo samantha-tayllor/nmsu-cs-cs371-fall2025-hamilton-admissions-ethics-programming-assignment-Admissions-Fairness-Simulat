@@ -1,0 +1,11 @@
+Name,Age,Geography,Ethnicity,Income ($),Legacy,Local,GPA,Test,Extra,Essay,Letter of Recommendation,First-Gen,Disability
+Alice Stark,18,"Jackson, MS",White,25000,No,Yes,3.9,1500,0.8,0.7,0.9,Yes,Yes
+Bob Parker,19,"Boston, MA",White,160000,Yes,No,3.7,1550,0.9,0.8,0.7,No,No
+Carlos Rivera,20,"Phoenix, AZ",Latino,32000,No,No,2.9,1050,0.6,0.9,0.8,Yes,No
+Diana Chen,18,"Chicago, IL",Asian,85000,No,Yes,3.8,1400,0.9,0.9,0.9,No,No
+Fatima Al-Sayed,21,"Los Angeles, CA",Middle Eastern,30000,No,No,2.8,1000,0.7,0.8,0.7,Yes,Yes
+George Johnson,18,"New York, NY",Black,28000,No,No,2.7,950,0.9,0.9,0.8,Yes,No
+Hannah Miller,22,"Fargo, ND",White,130000,Yes,No,3,980,0.6,0.7,0.6,No,No
+Ishaan Singh,19,"Atlanta, GA",Indian,90000,No,Yes,3.6,1400,0.7,0.8,0.8,No,No
+Jasmine Okafor,20,"Oakland, CA",Black,35000,No,No,2.9,1020,0.8,0.8,0.9,Yes,Yes
+Liam Wang,18,"Toronto, Canada",Asian,78000,Yes,International,3.5,1300,0.8,0.8,0.9,No,No
