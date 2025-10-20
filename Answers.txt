@@ -1,0 +1,54 @@
+Feature Selection & Design
+	
+	What variables did you include, and why? I included all of the variables except for essay because I think that it is nearly impossible to confine
+	all of your best qualities into an essay. With the rise of generative AI it is also less credible to submit something that you did not write.
+	
+	Did you exclude any sensitive features? Why or why not? I excluded the legacy score because I do not think it matters in any way what your family
+	has done, it only matters what you have done.
+	
+	Should "legacy" still carry a positive weight? Like I said above I think it should be zero.
+	
+	What other features(e.g., proximity, essay strength, disability) might you add or adjust? I think I am okay with the current variables.  
+
+Fairness & Outcomes
+	
+	Between the blind and aware models, which applicants benefited or lost out? The applicants that benefited were those that came from poor backgrounds or were first gent students.
+	Those that did not benefit were thsoe that relied only on their GPA and test scores.
+	
+	Which applicants specifically benefited from the aware model? Those that came from poor backgrounds or are first-gen students.
+	
+	Does adding income or first-generation make the system fairer or less fair? Why? Adding these two variables makes the system more fair because
+	those that come from poor backgrounds or are first gen students do not have the money for higher quality schooling earlier in their life and do
+	not have the advice of their parents for what do do when it comes to college.
+
+	Which model feels more fair overall, and why? I think the aware model is more fair because the variables do matter when ensuring students come
+	from diverse backgrounds.
+
+Transparency and Accountability
+
+	How transparent is your algorithm? I Suppose someoen who has a high GPA and test scores could be confused if theye get rejected but otherwise I think
+	my algorithm is transparent in the fact it rewards those who have done their extracurriculars and come rom less priviliged backgrounds.
+	
+	Could you clearly explain a rejection to an applicant? Yes I think I would be able to tell whether they have been putting themselves out in the world
+	or isolating and just getting good grades.
+		
+	Would you feel comfortable if this algorithm evaluted your application? Why or why not? I would feel comfortable if this algorithm evaluated my 
+	application because I don't think it matters that much to me.
+
+Broader Implications
+
+	What risks might arise if such an algorithm were used in real admissions? I think because of our individualists society and our long term effects of
+	isolation during covid, there might be a high rejection rate because people have not been doing extracurriculars. I do think it would even out
+	eventually.
+
+	What real-world parallels exist(e.g., hiring, policing, scholarships)? It depends on the college but I think my algorithm has similarities to 
+	schools that do admit more minority students.
+
+	What does this exercise reveal about fairness in algorthmic decision systems? It reveals that it is extremely easy to mess with the biases of an algorithm and it's hard
+	to perfect an algorithm.
+	
+	Can algorithms ever be truly fair, or do they just shift where bias appears? I do not think you can have a fair algorithm. It is too complicated to encompass an entire person into
+	an algorithm and so we cannot represent people fairly through a program.
+	
+	How should fairness and accountability be balanced in automated decisions? I think you should strive to place importance on them both. It is important to work towards fairness so that 
+	everyone who deserved to be admitted is. It is also important to work towards accountability so that those who are in charge of an algorithm know that it is wrong when it's wrong.   
